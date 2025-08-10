@@ -1,0 +1,384 @@
+{
+  "servo_limits": {
+    "servo_1": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_2": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_3": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_4": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_5": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_6": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_7": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_8": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_9": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_10": {
+      "min": 20,
+      "max": 440
+    },
+    "servo_12": {
+      "min": 20,
+      "max": 800
+    }
+  },
+  "settings": {
+    "animation_stagger_delay": 600,
+    "default_sequence_step_delay": 50,
+    "device_name": "COM10"
+  },
+  "gestures": {
+    "rock_on": {
+      "servo_1": 140,
+      "servo_7": 100,
+      "servo_2": 440,
+      "servo_3": 440,
+      "servo_4": 440,
+      "servo_5": 440,
+      "servo_6": 140,
+      "servo_8": 100,
+      "servo_9": 160,
+      "servo_10": 20,
+      "servo_12": 20
+    },
+    "handshake": {
+      "servo_1": 20,
+      "servo_7": 20,
+      "servo_2": 20,
+      "servo_3": 20,
+      "servo_4": 20,
+      "servo_5": 20,
+      "servo_6": 20,
+      "servo_8": 20,
+      "servo_9": 200,
+      "servo_10": 20,
+      "servo_12": 200
+    },
+    "grip1closed": {
+      "servo_1": 300,
+      "servo_7": 440,
+      "servo_2": 300,
+      "servo_3": 440,
+      "servo_4": 440,
+      "servo_5": 300,
+      "servo_6": 300,
+      "servo_8": 440,
+      "servo_9": 400,
+      "servo_10": 300,
+      "servo_12": 500
+    },
+    "grip1open": {
+      "servo_1": 20,
+      "servo_7": 20,
+      "servo_2": 20,
+      "servo_3": 20,
+      "servo_4": 20,
+      "servo_5": 20,
+      "servo_6": 20,
+      "servo_8": 20,
+      "servo_9": 20,
+      "servo_10": 20,
+      "servo_12": 500
+    },
+    "grip2open": {
+      "servo_1": 20,
+      "servo_7": 20,
+      "servo_2": 20,
+      "servo_3": 20,
+      "servo_4": 20,
+      "servo_5": 20,
+      "servo_6": 20,
+      "servo_8": 20,
+      "servo_9": 20,
+      "servo_10": 20,
+      "servo_12": 300
+    },
+    "grip2closed": {
+      "servo_1": 400,
+      "servo_7": 400,
+      "servo_2": 400,
+      "servo_3": 400,
+      "servo_4": 400,
+      "servo_5": 400,
+      "servo_6": 400,
+      "servo_8": 400,
+      "servo_9": 400,
+      "servo_10": 350,
+      "servo_12": 260
+    },
+    "fist": {
+      "servo_1": 440,
+      "servo_2": 440,
+      "servo_3": 440,
+      "servo_4": 440,
+      "servo_5": 440,
+      "servo_6": 440,
+      "servo_7": 440,
+      "servo_8": 440,
+      "servo_9": 440,
+      "servo_10": 440,
+      "servo_12": 20
+    },
+    "point": {
+      "servo_1": 440,
+      "servo_2": 440,
+      "servo_3": 440,
+      "servo_4": 440,
+      "servo_5": 440,
+      "servo_6": 20,
+      "servo_7": 440,
+      "servo_8": 20,
+      "servo_9": 440,
+      "servo_10": 440,
+      "servo_12": 20
+    },
+    "High Five": {
+      "servo_1": 20,
+      "servo_2": 20,
+      "servo_3": 20,
+      "servo_4": 20,
+      "servo_5": 20,
+      "servo_6": 20,
+      "servo_7": 20,
+      "servo_8": 20,
+      "servo_9": 20,
+      "servo_10": 20,
+      "servo_12": 100
+    },
+    "Rock Sign": {
+      "servo_1": 20,
+      "servo_2": 450,
+      "servo_3": 400,
+      "servo_4": 400,
+      "servo_5": 450,
+      "servo_6": 20,
+      "servo_7": 20,
+      "servo_8": 20,
+      "servo_9": 400,
+      "servo_10": 450,
+      "servo_12": 20
+    },
+    "Emphatic Point": {
+      "servo_1": 450,
+      "servo_2": 450,
+      "servo_3": 400,
+      "servo_4": 400,
+      "servo_5": 450,
+      "servo_6": 20,
+      "servo_7": 400,
+      "servo_8": 20,
+      "servo_9": 300,
+      "servo_10": 400,
+      "servo_12": 20
+    },
+    "OK Sign": {
+      "servo_1": 450,
+      "servo_2": 450,
+      "servo_3": 400,
+      "servo_4": 400,
+      "servo_5": 450,
+      "servo_6": 280,
+      "servo_7": 400,
+      "servo_8": 220,
+      "servo_9": 250,
+      "servo_10": 280,
+      "servo_12": 20
+    },
+    "servo_1:_20": {
+      "servo_1": 20,
+      "servo_2": 20,
+      "servo_3": 20,
+      "servo_4": 440,
+      "servo_5": 440,
+      "servo_6": 20,
+      "servo_7": 20,
+      "servo_8": 20,
+      "servo_9": 20,
+      "servo_10": 20,
+      "servo_12": 20
+    },
+    "gesture_1754828998": {
+      "servo_1": 440,
+      "servo_2": 440,
+      "servo_3": 440,
+      "servo_4": 440,
+      "servo_5": 440,
+      "servo_6": 20,
+      "servo_7": 440,
+      "servo_8": 20,
+      "servo_9": 20,
+      "servo_10": 20,
+      "servo_12": 400
+    },
+    "gesture_1754829775": {
+      "servo_1": 20,
+      "servo_2": 20,
+      "servo_3": 20,
+      "servo_4": 440,
+      "servo_5": 440,
+      "servo_6": 20,
+      "servo_7": 20,
+      "servo_8": 20,
+      "servo_9": 20,
+      "servo_10": 20,
+      "servo_12": 20
+    },
+    "gesture_1754829796": {
+      "servo_1": 20,
+      "servo_2": 20,
+      "servo_3": 20,
+      "servo_4": 20,
+      "servo_5": 20,
+      "servo_6": 20,
+      "servo_7": 20,
+      "servo_8": 20,
+      "servo_9": 20,
+      "servo_10": 20,
+      "servo_12": 20
+    },
+    "nge_mode": {
+      "servo_1": 20,
+      "servo_2": 20,
+      "servo_3": 20,
+      "servo_4": 20,
+      "servo_5": 20,
+      "servo_6": 20,
+      "servo_7": 20,
+      "servo_8": 20,
+      "servo_9": 20,
+      "servo_10": 20,
+      "servo_12": 20
+    },
+    "switch_trol": {
+      "servo_1": 100,
+      "servo_2": 150,
+      "servo_3": 180,
+      "servo_4": 160,
+      "servo_5": 140,
+      "servo_6": 120,
+      "servo_7": 100,
+      "servo_8": 100,
+      "servo_9": 120,
+      "servo_10": 180,
+      "servo_12": 100
+    },
+    "switch_troller": {
+      "servo_1": 150,
+      "servo_2": 150,
+      "servo_3": 150,
+      "servo_4": 150,
+      "servo_5": 150,
+      "servo_6": 150,
+      "servo_7": 150,
+      "servo_8": 150,
+      "servo_9": 150,
+      "servo_10": 150,
+      "servo_12": 150
+    },
+    "closed_fist_1": {
+      "servo_1": 100,
+      "servo_2": 100,
+      "servo_3": 100,
+      "servo_4": 100,
+      "servo_5": 100,
+      "servo_6": 100,
+      "servo_7": 100,
+      "servo_8": 100,
+      "servo_9": 100,
+      "servo_10": 100,
+      "servo_12": 100
+    },
+    "police": {
+      "servo_1": 100,
+      "servo_2": 150,
+      "servo_3": 180,
+      "servo_4": 160,
+      "servo_5": 140,
+      "servo_6": 120,
+      "servo_7": 100,
+      "servo_8": 100,
+      "servo_9": 220,
+      "servo_10": 180,
+      "servo_12": 400
+    },
+    "open_grip": {
+      "servo_1": 150,
+      "servo_2": 150,
+      "servo_3": 180,
+      "servo_4": 160,
+      "servo_5": 140,
+      "servo_6": 120,
+      "servo_7": 150,
+      "servo_8": 100,
+      "servo_9": 150,
+      "servo_10": 180,
+      "servo_12": 200
+    },
+    "open": {
+      "servo_1": 180,
+      "servo_2": 180,
+      "servo_3": 180,
+      "servo_4": 180,
+      "servo_5": 180,
+      "servo_6": 180,
+      "servo_7": 180,
+      "servo_8": 180,
+      "servo_9": 180,
+      "servo_10": 180,
+      "servo_12": 180
+    }
+  },
+  "sequences": {
+    "sequence_1": [
+      {
+        "gesture": "peace",
+        "delay": 1000
+      },
+      {
+        "gesture": "fist",
+        "delay": 1000
+      },
+      {
+        "gesture": "rock_on",
+        "delay": 1000
+      }
+    ],
+    "sequence_2": [
+      {
+        "gesture": "wave",
+        "delay": 800
+      },
+      {
+        "gesture": "grip",
+        "delay": 800
+      },
+      {
+        "gesture": "open_hand",
+        "delay": 800
+      }
+    ]
+  }
+}
